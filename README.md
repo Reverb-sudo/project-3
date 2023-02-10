@@ -1,3 +1,5 @@
+Name: Kie MacPherson
+Info: kiem@uoregon.edu
 # UOCIS322 - Project 3 #
 
 You'll learn about JQuery and asynchronous requests in this project.
@@ -16,7 +18,7 @@ The vocabulary word list is fixed for one invocation of the server, so multiple 
 
 * Familiarize yourself with `flask_vocab.py` and `flask_minijax.py` by running them separately. You need to understand them to do this project.
 
-* Your task is to replace the form interaction (in `flask_vocab.py`) with AJAX interaction on each keystroke using `flask_minijax.py`. 
+* Your task is to replace the form interaction (in `flask_vocab.py`) with AJAX interaction on each keystroke using `flask_minijax.py`.
 
   **NOTE:** You MUST remove the submit button, check for validity per keystroke, and redirect to the success page as soon as the required number of words are found.
 
@@ -57,7 +59,7 @@ The `tests` directory contains a test suite for the `src` package. There's a `ru
 * If the `Dockerfile` doesn't run, build or is missing, 5 will be assigned.
 
 * If `credentials.ini` is not submitted or the repo is not found, 0 will be assigned.
-	 
+
 
 ## Authors
 
